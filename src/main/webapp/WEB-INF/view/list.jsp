@@ -14,7 +14,7 @@
 		<table border="1">
 			<tr>
 				<th>아이디</th>
-				<th>이름&nbsp;&nbsp;름</th>
+				<th>이&nbsp;&nbsp;름</th>
 				<th>역&nbsp;&nbsp;활</th>
 			</tr>
 			<tr>			

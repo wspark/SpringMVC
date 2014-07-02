@@ -24,9 +24,9 @@
 	<transactionManager type="JDBC" >
 		<dataSource type="SIMPLE">
 			<property name="JDBC.Driver" value="oracle.jdbc.driver.OracleDriver"/>
-			<property name="JDBC.ConnectionURL" value="jdbc:oracle:thin:@//M15023:1521/XE"/>
-			<property name="JDBC.Username" value="scott"/>
-			<property name="JDBC.Password" value="tiger"/>
+			<property name="JDBC.ConnectionURL" value="jdbc:oracle:thin:@oracle.jjomacson.cafe24.com:1521:orcl"/>
+			<property name="JDBC.Username" value="jjomacson"/>
+			<property name="JDBC.Password" value="qkrwls00"/>
 			<property name="JDBC.DefaultAutoCommit" value="true" />
 			<property name="Pool.MaximumActiveConnections" value="10"/>
 			<property name="Pool.MaximumIdleConnections" value="5"/>
